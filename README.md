@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BURAXON
 - 👀 I’m interested in coding, photo- and videography
-- 🌱 I’ve never stopped to learn Kotlin and Adobe programs -.-".
+- 🌱 Kotlinnn
 - 📫 How to reach me: www.konvision.de
 
 <!---
