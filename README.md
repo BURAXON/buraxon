@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BURAXON
+- 👋 Hi, I’m @Burak
 - 👀 I’m interested in coding, photo- and videography
 - 🌱 Kotlinnn
 - 📫 How to reach me: www.konvision.de
